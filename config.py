@@ -13,10 +13,10 @@ SHORT_API = ""
 SHORT_TUT = "https://t.me/How_to_Download_7x/26"
 
 # Bot Configuration
-SESSION = "yato"
+SESSION = "PR"
 TOKEN = "642712"
-API_ID = ""
-API_HASH = ""
+API_ID = "26106561"
+API_HASH = "6bf2b0a825260beafe9955ffed29f978"
 WORKERS = 5
 
 DB_URI = "mongodb"
