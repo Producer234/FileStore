@@ -4,7 +4,7 @@ from logging.handlers import RotatingFileHandler
 # Bot Configuration
 LOG_FILE_NAME = "bot.log"
 PORT = '5010'
-OWNER_ID = 6497757690
+OWNER_ID = 7753899951
 
 MSG_EFFECT = 5046509860389126442
 
@@ -22,7 +22,7 @@ WORKERS = 5
 DB_URI = "mongodb"
 DB_NAME = "yato"
 
-FSUBS = [[-1003016571084, True, 10]] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
+FSUBS = [[-1002534435744, True, 10]] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
 # Database Channel (Primary)
 DB_CHANNEL =  -1002751155801
 # Multiple Database Channels (can be set via bot settings)
